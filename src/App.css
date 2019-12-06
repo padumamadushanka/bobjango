@@ -1,3 +1,11 @@
 body {
   font-family: "Open Sans Condensed";
+  background: rgb(19, 19, 20);
+  background: linear-gradient(
+    90deg,
+    rgba(19, 19, 20, 1) 0%,
+    rgba(117, 35, 124, 1) 51%,
+    rgba(0, 26, 32, 1) 100%
+  );
+  padding: 20px 80px;
 }
